@@ -1,14 +1,4 @@
 <?php
-/**
- * index.php — Fallback Template
- * ================================
- * 📚 LEARN: Every WordPress theme MUST have an index.php.
- * WordPress uses it as a last resort fallback if no other
- * template matches the current page.
- *
- * Template hierarchy (simplified):
- * front-page.php → home.php → archive.php → index.php
- */
 
 get_header();
 ?>
